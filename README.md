@@ -88,7 +88,8 @@
 <br clear="both">
 
 <div align="center">
-  <a href="deltagodforce1@gmail.com" target="_blank">
+  <a href="mailto:deltagodforce1@gmail.com" target="_blank">deltagodforce1@gmail.com</a>
+
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/amit-kumar-auddy/" target="_blank">
