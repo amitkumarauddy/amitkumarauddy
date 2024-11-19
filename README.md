@@ -2,7 +2,7 @@
 
 ### 
 
-<div align="center">
+<div align="center"><h2>PROFILE VIEWS - </h2>
   <img src="https://profile-counter.glitch.me/amitkumarauddy/count.svg?"  alt="Profile counter" />
 </div>
 
