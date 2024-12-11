@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is Amit aka Delta and I'm an aspiring software engineer from India.</h2>
+<h2 align="left">HELLO👋! My name is Amit aka Delta and I'm an aspiring software engineer from India.</h2>
 
 ### 
 
