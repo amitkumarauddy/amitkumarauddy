@@ -1,11 +1,6 @@
 <h2 align="left">HI👋! My name is Amit aka Delta and I'm an aspiring Data engineer from India.</h2>
 
 ### 
-
-<div align="center"> 
-  <img src="https://profile-counter.glitch.me/amitkumarauddy/count.svg?"  alt="Profile counter" />
-</div>
-
 ### 
 
 <div align="center">
